@@ -1,0 +1,23 @@
+  #  	Label                                                  	Material 	Dimensions
+  -  	-----                                                  	---------	----------
+
+  1x 	Sheet                                                  	silver	[5.0cm x 3.045m x 4.0mm]
+     	Eisen-Fendt 115235 15
+
+  8x 	Angle                                                  	silver	[5.0cm x 1.5m x 5.0cm]
+     	Eisen-Fendt 115235 15
+
+  1x 	Angle                                                  	silver	[5.0cm x 3.045m x 5.0cm]
+     	Eisen-Fendt 115235 15
+
+  2x 	Sheet                                                  	silver	[5.0cm x 1.5m x 4.0mm]
+     	Eisen-Fendt 115235 15
+
+ 15x 	Bolt                                                   	-     	[1.963m x 1.7m x 3.341m]
+     	Bolt
+
+ 30x 	Nut                                                    	-     	[1.963m x 1.7m x 75.0cm]
+     	Nut
+
+  1x 	Beam_U                                                 	silver	[5.0cm x 3.0m x 5.0cm]
+     	Eisen-Fendt 115235 15
