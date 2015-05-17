@@ -1,23 +1,29 @@
   #  	Label                                                  	Material 	Dimensions
   -  	-----                                                  	---------	----------
 
-  1x 	Sheet                                                  	silver	[5.0cm x 3.045m x 4.0mm]
-     	Eisen-Fendt 115235 15
-
-  8x 	Angle                                                  	silver	[5.0cm x 1.5m x 5.0cm]
-     	Eisen-Fendt 115235 15
-
-  1x 	Angle                                                  	silver	[5.0cm x 3.045m x 5.0cm]
-     	Eisen-Fendt 115235 15
-
-  2x 	Sheet                                                  	silver	[5.0cm x 1.5m x 4.0mm]
-     	Eisen-Fendt 115235 15
-
- 15x 	Bolt                                                   	-     	[1.963m x 1.7m x 3.341m]
+ 21x 	Bolt                                                   	-     	[1.963cm x 1.7cm x 3.341cm]
      	Bolt
 
- 30x 	Nut                                                    	-     	[1.963m x 1.7m x 75.0cm]
+  2x 	Beam_U                                                 	silver	[3.0cm x 1.4m x 3.0cm]
+     	Eisen-Fendt 115450 95 or 117200 15 (zinc coated)
+
+  2x 	Angle                                                  	silver	[3.0cm x 1.5m x 3.0cm]
+     	Thickness 3mm: Eisen-Fendt 115535 00 or 115610 00 (zinc coated)
+
+  1x 	Angle                                                  	silver	[3.0cm x 3.0m x 3.0cm]
+     	Thickness 3mm: Eisen-Fendt 115535 00 or 115610 00 (zinc coated)
+
+ 42x 	Nut                                                    	-     	[1.963cm x 1.7cm x 7.5mm]
      	Nut
 
-  1x 	Beam_U                                                 	silver	[5.0cm x 3.0m x 5.0cm]
-     	Eisen-Fendt 115235 15
+  1x 	Beam_U                                                 	silver	[3.0cm x 2.95m x 3.0cm]
+     	Eisen-Fendt 115450 95 or 117200 15 (zinc coated)
+
+  1x 	Sheet                                                  	silver	[3.0cm x 3.0m x 3.0mm]
+     	Eisen-Fendt 111070 00 or 112910 15 (zinc coated)
+
+  2x 	Sheet                                                  	silver	[3.0cm x 1.5m x 3.0mm]
+     	Eisen-Fendt 111070 00 or 112910 15 (zinc coated)
+
+  6x 	Angle                                                  	silver	[3.0cm x 1.25m x 3.0cm]
+     	Thickness 3mm: Eisen-Fendt 115535 00 or 115610 00 (zinc coated)
